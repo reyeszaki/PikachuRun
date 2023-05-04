@@ -1,9 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: Pikachu's Strawberry Run
 PURPOSE OF PROJECT: To help Pikachu collect all the strawberries you find.
 VERSION or DATE: 2/12/2021
